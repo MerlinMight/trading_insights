@@ -1,6 +1,13 @@
 # Crypto Sentiment & Trader Performance Analysis
 
-This project investigates the correlation between the **Fear & Greed Index** and professional trading outcomes. It identifies execution efficiencies (Maker vs. Taker), contrarian profit leaders, and risk landscapes across various sentiment regimes.
+This project explores the relationship between trader performance and market sentiment, uncover hidden patterns, and deliver insights that can drive smarter trading strategies.
+
+# Datasets
+1. Bitcoin Market Sentiment Dataset
+o Columns: Date, Classification
+2. Historical Trader Data from Hyperliquid
+o Columns include: account, symbol, execution price, size, side, data, time, start position, closedPnL, etc
+
 
 ## 📂 Project Structure
 
