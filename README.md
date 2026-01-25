@@ -4,9 +4,9 @@ This project explores the relationship between trader performance and market sen
 
 # Datasets
 1. Bitcoin Market Sentiment Dataset
-o Columns: Date, Classification
+ - Columns: Date, Classification
 2. Historical Trader Data from Hyperliquid
-o Columns include: account, symbol, execution price, size, side, data, time, start position, closedPnL, etc
+ - Columns include: account, symbol, execution price, size, side, data, time, start position, closedPnL, etc
 
 
 ## 📂 Project Structure
