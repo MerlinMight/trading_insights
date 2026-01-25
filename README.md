@@ -13,5 +13,5 @@ This project explores the relationship between trader performance and market sen
 
 ```text
 ├── fear_index.csv          # Historical market sentiment data
-├── historical_data.csv     # Detailed trade logs and execution metrics      
+├── historical_data.csv     # Detailed trade logs      
 └── primetraders.ipynb      # Main Python analysis and visualization notebook       
