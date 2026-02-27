@@ -15,3 +15,13 @@ This project explores the relationship between trader performance and market sen
 ├── fear_index.csv          # Historical market sentiment data
 ├── historical_data.csv     # Detailed trade logs      
 └── primetraders.ipynb      # Main Python analysis and visualization notebook       
+
+## 🛠️ Environment Setup & Execution
+
+Follow these steps to configure your local environment and run the `primetraders.ipynb` analysis notebook.
+
+### 1. Prerequisites
+Ensure you have **Python 3.10** or higher installed on your system.
+
+### 2. Packages Installation
+pip install pandas numpy matplotlib seaborn
